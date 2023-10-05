@@ -2,6 +2,11 @@
 
 This repo contains scripts used in the paper [Machine Learning-Based Predictive Modeling of Postpartum Depression](https://www.mdpi.com/2077-0383/9/9/2899). We trained machine learning models to predict postpartum depression, and further analysed our models to find features that are important in the development of this phenotype. 
 
+#### software
+1. create a conda environment: `conda env create -f software/environment.yaml`
+2. open the `r` console
+3. install additional packages: `Rscript software/packages.R`
+
 ### scripts and usage
 
 [modules](scripts/modules/): contains helper functions used in this project; if you intend to reproduce these results, you don't need to run this script.

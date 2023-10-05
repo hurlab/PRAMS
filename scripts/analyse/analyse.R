@@ -25,6 +25,7 @@ load(file.path(objects_dir, 'set_two_fits.RData'))
 # three.relief.list
 load(file.path(objects_dir, 'set_three_fits.RData'))
 
+# ???
 feature_desc <- read.csv(file.path(data_dir, 'feature_details.csv'), header=T)
 
 # 
