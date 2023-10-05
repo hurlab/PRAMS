@@ -29,4 +29,4 @@ This repo contains scripts used in the paper [Machine Learning-Based Predictive 
 7. analyse.R
 
 ### Notes
-- there is a `feature_details.csv` file that I need to find
+-  the `feature_details.csv` file was not created by us but it is available

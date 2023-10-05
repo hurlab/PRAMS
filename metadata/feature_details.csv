@@ -1,0 +1,1984 @@
+variable,label
+ALIVE,Infant living at time of report
+,
+,
+,
+BRSTFED,Infant being breast-fed?
+,
+,
+,
+B_ORDER,Birth order
+,
+,
+CIG_1TRI,No. of cigarettes smoked -1st trimester
+,
+,
+CIG_2TRI,No. of cigarettes smoked -2nd trimester
+,
+,
+CIG_3TRI,No. of cigarettes smoked -3rd trimester
+,
+,
+CIG_PRIOR,No. of cigarettes smoked - prior to preg
+,
+,
+DEFECT,Was the Baby Born With a Birth Defect?
+,
+,
+,
+DEL_1CS,First C-Section?
+,
+,
+,
+DEL_FORC,Forceps Delivery?
+,
+,
+,
+DEL_RCS,Repeated C-Section?
+,
+,
+,
+DEL_VACM,Vacuum Delivery?
+,
+,
+,
+DEL_VAG,Vaginal Delivery?
+,
+,
+,
+DEL_VCS,Vaginal Delivery After C-Section?
+,
+,
+,
+EVER_MAR,Ever married
+,
+,
+,
+FHISP_BC,Fathers Hispanic ethnicity
+,
+,
+,
+FRACE_AMI,Paternal race - American Indian/Alaska native
+,
+,
+,
+FRACE_ASN_NAPHSIS,Paternal Race Asian grouped
+,
+,
+,
+FRACE_BLK,Paternal race - Black
+,
+,
+,
+FRACE_CHN,Paternal race - Chinese
+,
+,
+,
+FRACE_FLP,Paternal race - Filipino
+,
+,
+,
+FRACE_JPN,Paternal race - Japanese
+,
+,
+,
+FRACE_NHW,Paternal race - Native Hawaiian
+,
+,
+,
+FRACE_OTH,Paternal race - Other
+,
+,
+,
+FRACE_WHT,Paternal race - White
+,
+,
+,
+GEST_WK_NAPHSIS,Clinical estimate of gestational age grouped
+,
+,
+,
+,
+,
+GRAM_NAPHSIS,"Birth weight grouped into 250-gram intervals;
+Numeric value is midpoint of interval"
+,
+,
+HISP_BC,Hispanic?
+,
+,
+,
+INFER_TR,Infertility treatment
+,
+,
+,
+KESSNER,Kessner Index
+,
+,
+,
+"KOTELCHUCK
+
+
+
+
+LGA","Kotelchuck Index
+
+
+
+
+Large for Gestational Age Based on 90th Percentile"
+,
+,
+,
+MACROSOMIA,Macrosomia:    >= 4500 gram birth weight
+,
+,
+,
+MARRIED,Marital Status
+,
+,
+MAT_AGE_NAPHSIS,Maternal age grouped
+,
+,
+,
+,
+,
+,
+,
+MAT_ED,Maternal Education
+,
+,
+,
+,
+,
+MAT_RACE,Maternal Race
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+MAT_TRAN,Mother transferred?
+,
+,
+,
+MAT_WIC,Mother get WIC food during pregnancy?
+,
+,
+,
+MM_ABNOR,Labor Abnormality?
+,
+,
+,
+MM_BLEED,Bleeding During Pregnancy?
+,
+,
+,
+MM_DIAB,Diabetes?
+,
+,
+,
+MM_DOB,Month of Birth
+,
+,
+MM_FEVER,Fever?
+,
+,
+,
+MM_HBP,Hypertension?
+,
+,
+,
+MM_LMP,Month of Last Menstrual Period
+,
+,
+MM_NOLD,No Complications?
+,
+,
+,
+MM_NOMD,No Medical Risk Factors?
+,
+,
+,
+MM_PCV,Month of first prenatal care visit
+,
+,
+,
+MM_PROM,Ruptured Membrane?
+,
+,
+,
+MOMCIG,Number of Cigarettes Per Day
+,
+,
+,
+MOMLBS,Maternal Weight Gain
+,
+,
+,
+MOMSMOKE,Did Mom Smoke?
+,
+,
+,
+MRACE_AMI,Maternal race - American Indian/Alaska native
+,
+,
+,
+MRACE_ASN_NAPHSIS,Maternal Race Asian grouped
+,
+,
+,
+MRACE_BLK,Maternal race - Black
+,
+,
+,
+MRACE_CHN,Maternal race - Chinese
+,
+,
+,
+MRACE_FLP,Maternal race - Filipino
+,
+,
+,
+MRACE_JPN,Maternal race - Japanese
+,
+,
+,
+MRACE_NHW,Maternal race - Native Hawaiian
+,
+,
+,
+MRACE_OTH,Maternal race - Other
+,
+,
+,
+MRACE_WHT,Maternal race - White
+,
+,
+,
+OTH_TERM,Pregnancy History – Other Terminations?
+,
+,
+,
+PAT_ACK,Acknowledgment of paternity
+,
+,
+,
+PAT_ED,Paternal Education
+,
+,
+,
+,
+,
+PAT_RACE,Paternal Race
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+PAY,Method of Payment
+,
+,
+,
+,
+,
+,
+,
+PLURAL,Plurality
+,
+,
+,
+PNC_MTH,Month of First Prenatal Care Visit
+,
+,
+,
+PNC_VST_NAPHSIS,Number of Prenatal Care Visits grouped
+,
+,
+,
+POB,Place of Birth
+,
+,
+,
+,
+,
+PRE_LB_NAPHSIS,Number of previous live births grouped
+,
+,
+,
+,
+,
+P_PRTERM,Previous preterm births
+,
+,
+,
+SEX,Gender of Infant
+,
+,
+SGA_10,Small for Gestational Age Based on 10th Percentile
+,
+,
+,
+SGA_2SD,Small for Gestational Age Based on 2SD from Mean
+,
+,
+,
+TRANS,Infant transferred
+,
+,
+,
+YY4_DOB,VAR: 4-DIGIT YEAR OF BIRTH (BC)
+,
+,
+YY4_LMP,Year of last menstrual period
+,
+,
+YY4_PCV,Year of first prenatal care visit
+,
+,
+,
+YY_DOB,Year of Birth
+,
+,
+YY_LMP,Year of Last Menstrual Period
+BABYDEAD,BABY DEAD?
+,
+,
+,
+,
+BATCH,BATCH NUMBER
+HISPANIC,HISPANIC ETHNIC GROUP
+,
+,
+,
+,
+,
+MODECONT,MODE OF CONTACT
+,
+,
+,
+,
+,
+,
+,
+,
+MODE_PRT,MODE OF PARTICIPATION
+,
+,
+,
+,
+,
+,
+,
+,
+PARTICIP,DID MOM EVER PARTICIPATE?
+,
+,
+STATE,STATE NAME
+URB_RUR,URBAN/RURAL CATEGORY
+TYPE,Type of survey reponse
+,
+LANGUAGE,Language -- English/Spanish/Chinese
+,
+,
+MOM_HTU,Moms height -- feet-inch/cm
+,
+,
+,
+MOM_FEET,Moms height -- feet
+,
+MOM_INCH,Moms height -- inches
+,
+MOM_CM,Moms height -- centimeters
+,
+MOMLBKGU,Moms weight -- lbs or kilos
+,
+,
+,
+,
+,
+,
+MOM_LBKG,Moms weight -- bef preg
+,
+MDOB_YR4,Moms birth -- year
+,
+PREV_LB,Previous -- live birth
+,
+,
+,
+,
+,
+PREV_LBW_RAW,Previous -- low birth weight
+,
+,
+,
+,
+,
+,
+PREV_PRE_RAW,Previous -- premature
+,
+,
+,
+,
+,
+,
+PRE_DIET,Pre-pregnancy dieting
+,
+,
+,
+,
+,
+PRE_EXER,Pre-pregnancy exercise 3+ days/wk
+,
+,
+,
+,
+,
+PRE_RX,Pre-pregnancy prescrip meds
+,
+,
+,
+,
+,
+PRE_CKD,Pre-pregnancy check for diabetes
+,
+,
+,
+,
+,
+PRE_CKBP,Pre-pregnancy check for high blood pressure
+,
+,
+,
+,
+,
+PRE_DEPR,Pre-pregnancy check for depression/anxiety
+,
+,
+,
+,
+,
+PRE_HIST,Pre-pregnancy talk fam med hist
+,
+,
+,
+,
+,
+PRE_DDS,Pre-pregnancy teeth cleaned
+,
+,
+,
+,
+,
+INSWORK,Insurance paid by -- job
+,
+,
+,
+,
+INSCOMP,Insurance paid by -- purchase from company
+,
+,
+,
+,
+INSMED,Insurance paid by -- Medicaid
+,
+,
+,
+,
+INSCHIP,Insurance paid by -- state specific SCHIP/CHIP
+,
+,
+,
+,
+INSGOV,Insurance paid by -- state specific other government
+,
+,
+,
+,
+INSGOV2,Insurance paid by -- state specific other government
+,
+,
+,
+,
+INSGOV3,Insurance paid by -- state specific other government
+,
+,
+,
+,
+INSMIL,Insurance paid by -- state specific TRICARE or military
+,
+,
+,
+,
+INSIHS,Insurance paid by -- state specific IHS/Tribal
+,
+,
+,
+,
+INSOTH,Insurance paid by -- other
+,
+,
+,
+,
+INSTYPE,Insurance paid by -- Other specified
+INSNONE,Insurance paid by -- No insurance
+,
+,
+,
+,
+VITAMIN,Multivitamin -- # of times /wk
+,
+,
+,
+,
+BPG_HLTH,Before pregnancy:    advise about improving health
+,
+,
+,
+,
+,
+BPG_DIAB,Health prob -- Diabetes
+,
+,
+,
+,
+,
+BPG_HBP,Health prob -- HBP
+,
+,
+,
+,
+,
+BPG_DEPRS,Health prob -- Depression
+,
+,
+,
+,
+,
+PGINTENT,Preg -- intention
+,
+,
+,
+,
+,
+PGWAIT_RAW,Preg -- when want
+,
+,
+,
+,
+,
+,
+PREG_TRY,Preg -- trying
+,
+,
+,
+,
+,
+BC_WHEN4_RAW,BC -- use when got preg
+,
+,
+,
+,
+,
+,
+NBC_MIND_RAW,No BC -- didn't mind preg
+,
+,
+,
+NBC_TIME_RAW,No BC -- couldn't at time
+,
+,
+,
+NBC_SIDE_RAW,No BC -- side effects
+,
+,
+,
+NBC_GET_RAW,No BC -- couldn't get
+,
+,
+,
+NBC_STER_RAW,No BC -- sterile
+,
+,
+,
+NBC_HUSB_RAW,No BC -- husb/part didn't want
+,
+,
+,
+NBC_MEM_RAW,No BC -- forgot
+,
+,
+,
+NBC_OTH_RAW,No BC -- other
+,
+,
+,
+NBC_WHY_RAW,No BC -- other specified
+PNC_1STU,1st PNC visit -- wks/mnths
+,
+,
+,
+PNC_1ST,1st PNC visit -- number
+,
+,
+PP_WORK_RAW,Insurance paid by -- job
+,
+,
+,
+PP_COMP_RAW,Insurance paid by -- purchase from company
+,
+,
+,
+PP_MEDIC_RAW,Insurance paid by -- Medicaid
+,
+,
+,
+PP_CHIP_RAW,Insurance paid by -- state specific SCHIP/CHIP
+,
+,
+,
+PP_GOV_RAW,Insurance paid by -- state specific other government
+,
+,
+,
+PP_GOV2_RAW,Insurance paid by -- state specific other government
+,
+,
+,
+PP_GOV3_RAW,Insurance paid by -- state specific other government
+,
+,
+,
+PP_MILIT_RAW,Insurance paid by -- state specific TRICARE or military
+,
+,
+,
+PP_IHS_RAW,Insurance paid by -- state specific IHS/Tribal
+,
+,
+,
+PP_OTH_RAW,Insurance paid by -- other
+,
+,
+,
+PP_TYPE_RAW,Insurance paid by -- Other specified
+PP_NONE_RAW,Insurance paid by -- No insurance
+,
+,
+,
+TLK_WT_RAW,HCW ask -- amt weight gain
+,
+,
+,
+,
+,
+,
+TLK_SMK_RAW,HCW talk -- smoking
+,
+,
+,
+,
+,
+,
+TLK_BF_RAW,HCW talk -- breastfeeding
+,
+,
+,
+,
+,
+,
+TLK_DRK_RAW,HCW talk -- drinking alcohol
+,
+,
+,
+,
+,
+,
+TLK_BELT_RAW,HCW talk -- seatbelt use
+,
+,
+,
+,
+,
+,
+TLK_MEDS_RAW,HCW talk -- safe meds
+,
+,
+,
+,
+,
+,
+TLK_DRUG_RAW,HCW talk -- illegal drugs
+,
+,
+,
+,
+,
+,
+TLK_BDEF_RAW,HCW talk -- birth defects tests
+,
+,
+,
+,
+,
+,
+TLK_PRET_RAW,HCW talk -- preterm labor signs
+,
+,
+,
+,
+,
+,
+TLK_HIVT_RAW,HCW talk -- testing for HIV
+,
+,
+,
+,
+,
+,
+TLK_DPRS_RAW,HCW talk -- depression
+,
+,
+,
+,
+,
+,
+TLK_ABUS_RAW,HCW talk -- physical abuse
+,
+,
+,
+,
+,
+,
+HIVTEST,HIV test -- have dur preg
+,
+,
+,
+,
+,
+FLUSHOT,Flu vacc -- info from care workers
+,
+,
+,
+,
+,
+FLUPREG,Flu vacc -- dur preg
+,
+,
+,
+FLU_MTH_RAW,Flu shot -- mth
+,
+,
+,
+,
+,
+FLU_YR4_RAW,Flu shot -- year
+,
+,
+,
+,
+,
+DDS_CARE,DDS -- important to care for teeth/gums
+,
+,
+,
+,
+,
+DDS_TALK,DDS -- dental talk
+,
+,
+,
+,
+,
+DDS_CLN,DDS -- teeth cleaned
+,
+,
+,
+,
+,
+DDS_INS,DDS -- insurance
+,
+,
+,
+,
+,
+DDS_PROB,DDS -- needed to see for problem
+,
+,
+,
+,
+,
+DDSWENT,DDS -- went for problem
+,
+,
+,
+,
+,
+PGS_BIRT,Childbirth classes to prepare for birth
+,
+,
+,
+,
+,
+VST_PREP,Health worker visit to prepare for baby
+,
+,
+,
+,
+,
+WIC_PREG,WIC -- dur preg
+,
+,
+,
+,
+,
+PG_GDB,Gestational diabetes - this pregnancy
+,
+,
+,
+,
+,
+SMK2YRS,SMK --    >=1 cigs last 2 yrs
+,
+,
+,
+,
+,
+SMK6_3B_RAW,"SMK -- 3 mnths bef, # cigs/day"
+,
+,
+,
+,
+,
+,
+,
+,
+SMK6_3L_RAW,"SMK -- last 3 mnths, # cigs/day"
+,
+,
+,
+,
+,
+,
+,
+,
+SMK6_3N_RAW,"SMK -- now, # cigs/day"
+,
+,
+,
+,
+,
+,
+,
+,
+DRK_2YRS,DRK -- last 2 years
+,
+,
+,
+,
+,
+DRK6_3B_RAW,"DRK -- 3 mnths bef, drinks/wk"
+,
+,
+,
+,
+,
+,
+,
+DRK6_3L_RAW,"DRK -- last 3 mnths, drinks/wk"
+,
+,
+,
+,
+,
+,
+,
+STRS_FM3,Stress -- family member ill
+,
+,
+,
+,
+,
+STRS_DV3,Stress -- divorce
+,
+,
+,
+,
+,
+STRS_MOV,Stress -- moved
+,
+,
+,
+,
+,
+STRSHOME,Stress -- homeless
+,
+,
+,
+,
+,
+STRS_JOB,Stress -- husb/part lost job
+,
+,
+,
+,
+,
+STRS_WRK,Stress -- mom lost job
+,
+,
+,
+,
+,
+STRS_PAY,Stress -- husb/part/self reduce wrk/pay
+,
+,
+,
+,
+,
+STRS_AWY,Stress -- apart from husb/part work related
+,
+,
+,
+,
+,
+STRS_ARG,Stress -- argue lots
+,
+,
+,
+,
+,
+STRS_PG,Stress -- husb/part preg no
+,
+,
+,
+,
+,
+STRS_BIL,Stress -- couldn't pay bill
+,
+,
+,
+,
+,
+STRS_JL3,Stress -- husb/part/self in jail
+,
+,
+,
+,
+,
+STRS_DRG,Stress -- others drugs
+,
+,
+,
+,
+,
+STRS_DH3,Stress -- others close died
+,
+,
+,
+,
+,
+PAB6HUS,"Abuse -- 12 mnths b4 preg, husb/part"
+,
+,
+,
+,
+,
+,
+PAD6HUS,"Abuse -- dur preg, husb/part"
+,
+,
+,
+,
+,
+,
+IDOB_MTH,Infant birth -- month
+,
+IDOB_YR4,Infant birth -- year
+,
+PGWT_GNU,Unit of preg weight gain/lost
+,
+,
+,
+,
+,
+,
+PGWT_GN,Preg weight gain/lost
+,
+,
+,
+,
+,
+INF_ICU,Infant ICU -- at birth
+,
+,
+,
+,
+,
+LTH_HOSP,Hosp baby stay -- length of time
+,
+,
+,
+,
+,
+,
+,
+INFLIVE5_RAW,Infant alive -- now
+,
+,
+,
+,
+,
+,
+INFWMOM5_RAW,Infant living -- with mom
+,
+,
+,
+,
+,
+,
+BF5EVER_RAW,Breastfeed -- ever
+,
+,
+,
+,
+,
+,
+BF5STILL_RAW,Breastfeed -- still
+,
+,
+,
+,
+,
+,
+BF5LNGTU_RAW,BF duration -- wks/mnths
+,
+,
+,
+,
+,
+BF5LNGTH_RAW,BF duration -- length of time
+,
+,
+,
+SLEEPPOS_RAW,Sleeping position -- baby
+,
+,
+,
+,
+,
+,
+,
+,
+VST_CARE_RAW,Health worker visit to help care for self/baby
+,
+,
+,
+,
+,
+,
+BC_NOW4,Postpartum BC -- using now
+,
+,
+,
+,
+,
+BCB_NSEX_RAW,PP BC barrs -- abstinence
+,
+,
+,
+BCB_PREG_RAW,PP BC barrs -- want preg
+,
+,
+,
+BCB_WANT_RAW,PP BC barrs -- didn't want to use
+,
+,
+,
+BCB_SIDE_RAW,PP BC barrs -- side effect
+,
+,
+,
+BCB_HUSB_RAW,PP BC barrs -- husb/part didn't want
+,
+,
+,
+BCB_PROB_RAW,PP BC barrs -- problems getting
+,
+,
+,
+BCB_TUBE_RAW,PP BC barrs -- tubes tied/blocked
+,
+,
+,
+BCB_VASE_RAW,PP BC barrs -- husb/part vasectomy
+,
+,
+,
+BCB_PNOW_RAW,PP BC barrs -- preg now
+,
+,
+,
+BCB_OTH_RAW,PP BC barrs -- other
+,
+,
+,
+BCB_WHAT_RAW,PP BC barrs -- other specified
+BCP_TUBE_RAW,BC postpart -- tubes tied
+,
+,
+,
+BCP_VASE_RAW,BC postpart -- vasectomy
+,
+,
+,
+BCP_PILL_RAW,BC postpart -- pill
+,
+,
+,
+BCP_COND_RAW,BC postpart -- condoms
+,
+,
+,
+BCP_SHT3_RAW,BC postpart -- shots every 3 mnths
+,
+,
+,
+BCP_IMPL_RAW,BC postpart -- contraceptive implant
+,
+,
+,
+BCP_PTRG_RAW,BC postpart -- contraceptive patch/ring
+,
+,
+,
+BCP_IUD_RAW,BC postpart -- IUD
+,
+,
+,
+BCP_RHYT_RAW,BC postpart -- rhythm
+,
+,
+,
+BCP_PULL_RAW,BC postpart -- withdrawal
+,
+,
+,
+BCP_NSEX_RAW,BC postpart -- abstinence
+,
+,
+,
+BCP_OTH_RAW,BC postpart -- other
+,
+,
+,
+BCP_WHAT_RAW,BC postpart -- other specified
+PPV_CHK,PPV -- checkup for self
+,
+,
+,
+,
+,
+MH_PPDPR,MH -- depress since birth
+,
+,
+,
+,
+,
+,
+MH_PPINT,MH -- no interest since birth
+,
+,
+,
+,
+,
+,
+HI_WORK,Insurance paid by -- job
+,
+,
+,
+,
+HI_COMP,Insurance paid by -- purchase from company
+,
+,
+,
+,
+HI_MEDIC,Insurance paid by -- Medicaid
+,
+,
+,
+,
+HI_CHIP,Insurance paid by -- state specific SCHIP/CHIP
+,
+,
+,
+,
+HI_GOV,Insurance paid by -- state specific other government
+,
+,
+,
+,
+HI_GOV2,Insurance paid by -- state specific other government
+,
+,
+,
+,
+HI_GOV3,Insurance paid by -- state specific other government
+,
+,
+,
+,
+HI_MILIT,Insurance paid by -- state specific TRICARE or military
+,
+,
+,
+,
+HI_IHS,Insurance paid by -- state specific IHS/Tribal
+,
+,
+,
+,
+HI_OTH,Insurance paid by -- other
+,
+,
+,
+,
+HI_TYPE,Insurance paid by -- Other specified
+HI_NONE,Insurance paid by -- No insurance
+,
+,
+,
+,
+INCOME7,"Income -- 12 mnths bef, total income"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+INC_NDEP,Income -- dependents (+self)
+,
+TOD_MTH,Today -- month
+,
+TOD_YR4,Today -- year
+BCB_HUSB,PP BC barrs -- husb/part didnt want (FORCED SKIP)
+,
+,
+,
+BCB_NSEX,PP BC barrs -- abstinence (FORCED SKIP)
+,
+,
+,
+BCB_OTH,PP BC barrs -- other (FORCED SKIP)
+,
+,
+,
+BCB_PNOW,PP BC barrs -- preg now (FORCED SKIP)
+,
+,
+,
+BCB_PREG,PP BC barrs -- want preg (FORCED SKIP)
+,
+,
+,
+BCB_PROB,PP BC barrs -- problems getting (FORCED SKIP)
+,
+,
+,
+BCB_SIDE,PP BC barrs -- side effect (FORCED SKIP)
+,
+,
+,
+BCB_TUBE,PP BC barrs -- tubes tied/blocked (FORCED SKIP)
+,
+,
+,
+BCB_VASE,PP BC barrs -- husb/part vasectomy (FORCED SKIP)
+,
+,
+,
+BCB_WANT,PP BC barrs -- didnt want to use (FORCED SKIP)
+,
+,
+,
+BCB_WHAT,PP BC barrs -- other specified (FORCED SKIP)
+BCP_COND,BC postpart -- condoms (FORCED SKIP)
+,
+,
+,
+BCP_IMPL,BC postpart -- contraceptive implant (FORCED SKIP)
+,
+,
+,
+BCP_IUD,BC postpart -- IUD (FORCED SKIP)
+,
+,
+,
+BCP_NSEX,BC postpart -- abstinence (FORCED SKIP)
+,
+,
+,
+BCP_OTH,BC postpart -- other (FORCED SKIP)
+,
+,
+,
+BCP_PILL,BC postpart -- pill (FORCED SKIP)
+,
+,
+,
+BCP_PTRG,BC postpart -- contraceptive patch/ring (FORCED SKIP)
+,
+,
+,
+BCP_PULL,BC postpart -- withdrawal (FORCED SKIP)
+,
+,
+,
+BCP_RHYT,BC postpart -- rhythm (FORCED SKIP)
+,
+,
+,
+BCP_SHT3,BC postpart -- shots every 3 mnths (FORCED SKIP)
+,
+,
+,
+BCP_TUBE,BC postpart -- tubes tied (FORCED SKIP)
+,
+,
+,
+BCP_VASE,BC postpart -- vasectomy (FORCED SKIP)
+,
+,
+,
+BCP_WHAT,BC postpart -- other specified (FORCED SKIP)
+BC_GEST,VAR BC: COMPUTED GEST AGE (DAYS)
+,
+,
+BC_WHEN4,Birth control -- use when got pregnant (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+BC_YRLLB,VAR BC: YEARS SINCE LAST LIVE BTH
+,
+,
+BF5EVER,Breastfeed -- ever (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+BF5LNGTH,BF duration -- length of time (FORCED SKIP)
+,
+,
+,
+BF5LNGTU,BF duration -- wks/mnths (FORCED SKIP)
+,
+,
+,
+,
+,
+BF5STILL,Breastfeed -- still (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+BF5WEEKS,VAR: # WEEKS BREASTFED BABY
+,
+,
+,
+,
+DRK63B_A,VAR: YES/NO DRINK 3 BEF PREG
+,
+,
+,
+,
+,
+DRK63L_A,VAR: YES/NO DRINK LAST 3 MTH PREG
+,
+,
+,
+,
+,
+DRK6C_PG,VAR: CHANGE DRINKING DURING PREG
+,
+,
+,
+,
+,
+,
+,
+DRK6_3B,"DRK -- 3 mnths bef, drinks/wk (FORCED SKIP)"
+,
+,
+,
+,
+,
+,
+,
+DRK6_3L,"DRK -- last 3 mnths, drinks/wk (FORCED SKIP)"
+,
+,
+,
+,
+,
+,
+,
+FLUTRIM,VAR: TRIMESTER MOM RECEIVED FLU SHOT
+,
+,
+,
+,
+,
+FLU_MTH,Flu shot -- month (FORCED SKIP)
+,
+,
+,
+,
+,
+FLU_MTH_DK,Flu shot -- mth    (DONT KNOW = 7777)
+,
+,
+,
+,
+,
+FLU_YR4,Flu shot -- year (FORCED SKIP)
+,
+,
+,
+,
+,
+FLU_YR4_DK,Flu shot -- year (DONT KNOW = 7777)
+,
+,
+,
+,
+,
+FRACE_ASN_NAPHSIS,Paternal Race Asian grouped
+,
+,
+,
+GEST_WK_NAPHSIS,Clinical estimate of gestational age grouped
+,
+,
+,
+,
+,
+GRAM_NAPHSIS,Birth weight grouped into 250-gram intervals
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+HIVTEST_DK,VAR: TESTED FOR HIV? (DONT KNOW=7)
+,
+,
+,
+,
+,
+HI_NUMB,VAR: # SOURCES PAYMENT FOR PRESENT HEALTH INSURANCE
+,
+INFLIVE5,Infant alive -- now (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+INFQ_AGE,VAR: INF AGE (DAYS) QUEST COMPLETED
+,
+,
+INFQ_AGE_MOD,VAR: INF AGE (DAYS) QUEST COMPLETED (CLEANED)
+,
+,
+INFWMOM5,Infant living -- with mom (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+INF_ICU_DK,VAR: BABY IN INTENSIVE CARE? (DONT KNOW=7)
+,
+,
+,
+,
+,
+INF_LIVE,VAR: INFANT ALIVE NOW
+,
+,
+,
+,
+,
+INF_WMOM,VAR: INFANT WITH MOM
+,
+,
+,
+,
+,
+,
+INS_NUMB,VAR: # PRE-PREGNANCY HEALTH INSURANCE PLANS
+,
+KESSNER,Kessner Index
+,
+,
+,
+KOTELCHUCK,Kotelchuck Index
+,
+,
+,
+,
+LGA,Large for Gestational Age Based on 90th Percentile
+,
+,
+,
+MACROSOMIA,Macrosomia:    >= 4500 gram birth weight
+,
+,
+,
+MAT_AGE_NAPHSIS,Maternal age grouped
+,
+,
+,
+,
+,
+,
+,
+MOM_BMI,VAR: MOM BODY MASS INDEX FROM QX
+,
+MOM_BMIG,VAR: MOM BMI GROUPED FROM QX
+,
+,
+,
+,
+MOM_BMIG_BC,VAR: MOM BMI GROUPED FROM BC
+,
+,
+,
+,
+,
+MOM_BMIG_QX_REV,VAR: MOM BMI GROUPED FROM QX REVISED
+,
+,
+,
+,
+,
+MOM_BMI_BC,VAR: MOM BODY MASS INDEX FROM BC
+,
+MOM_MTRS,Mom Height in Meters from Questionnaire
+,
+MOM_WT,VAR: MOM WT BEFORE PREGNANCY
+,
+MRACE_ASN_NAPHSIS,Maternal Race Asian grouped
+,
+,
+,
+NBC_GET,No BC -- couldnt get (FORCED SKIP)
+,
+,
+,
+NBC_HUSB,No BC -- husb/part didnt want (FORCED SKIP)
+,
+,
+,
+NBC_MEM,No BC -- forgot (FORCED SKIP)
+,
+,
+,
+NBC_MIND,No BC -- didnt mind preg (FORCED SKIP)
+,
+,
+,
+NBC_OTH,No BC -- other (FORCED SKIP)
+,
+,
+,
+NBC_SIDE,No BC -- side effects (FORCED SKIP)
+,
+,
+,
+NBC_STER,No BC -- sterile (FORCED SKIP)
+,
+,
+,
+NBC_TIME,No BC -- couldnt at time (FORCED SKIP)
+,
+,
+,
+NBC_WHY,No BC -- other specified (FORCED SKIP)
+NOHOSP_B,VAR: BABY STAY IN HOSP?
+,
+,
+,
+PGWAIT,Preg -- when want (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+PGWT_GNU_DK,Unit of preg weight gain/lost (DONT KNOW = 7)
+,
+,
+,
+,
+,
+,
+PGWT_GN_DK,Preg weight gain/lost (DONT KNOW = 7777)
+,
+,
+,
+,
+,
+PNCNO,VAR: NO PNC VISITS
+,
+,
+,
+,
+,
+PNC_1TRM,VAR: START PNC 1ST TRIMESTER?
+,
+,
+,
+PNC_VST_NAPHSIS,Number of Prenatal Care Visits grouped
+,
+,
+,
+PNC_WKS,VAR: WEEKS 1ST PNC VISIT
+,
+PP_CHIP,Insurance paid by -- SCHIP/CHIP (FORCED SKIP)
+,
+,
+,
+PP_COMP,Insurance paid by -- purchase from company (FORCED SKIP)
+,
+,
+,
+PP_DEPRESS,VAR:    POST-PARTUM DEPRESSION INDICATOR
+,
+,
+,
+,
+,
+PP_GOV,Insurance paid by -- other government (FORCED SKIP)
+,
+,
+,
+PP_GOV2,Insurance paid by -- other government (FORCED SKIP)
+,
+,
+,
+PP_GOV3,Insurance paid by -- other government (FORCED SKIP)
+,
+,
+,
+PP_IHS,Insurance paid by -- IHS/Tribal (FORCED SKIP)
+,
+,
+,
+PP_MEDIC,Insurance paid by -- Medicaid (FORCED SKIP)
+,
+,
+,
+PP_MILIT,Insurance paid by -- TRICARE or military (FORCED SKIP)
+,
+,
+,
+PP_NONE,Insurance paid by -- No insurance (FORCED SKIP)
+,
+,
+,
+PP_NUMB,VAR: # SOURCES PAYMENT FOR PNC
+,
+,
+PP_OTH,Insurance paid by -- other (FORCED SKIP)
+,
+,
+,
+PP_TYPE,Insurance paid by -- Other specified (FORCED SKIP)
+PP_WORK,Insurance paid by -- job (FORCED SKIP)
+,
+,
+,
+PREGHX,VAR: HX PREV LIVE BIRTHS
+,
+,
+,
+,
+,
+PREV_LBW,Previous live birth -- low birth weight (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+PREV_PRE,Previous live birth -- premature (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+PRE_LB_NAPHSIS,Number of previous live births grouped
+,
+,
+,
+,
+,
+QX_PHASE,QUESTIONNAIRE PHASE NUMBER
+SGA_10,Small for Gestational Age Based on 10th Percentile
+,
+,
+,
+SGA_2SD,Small for Gestational Age Based on 2SD from Mean
+,
+,
+,
+SLEEPPOS,Sleeping position -- baby (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+,
+,
+SMK63B_A,VAR: YES/NO SMOKE 3 BEF PREG
+,
+,
+,
+,
+,
+SMK63L_A,VAR: YES/NO SMOKE LAST 3 MTH PREG
+,
+,
+,
+,
+,
+SMK6C_NW,VAR: CHANGE SMOKING LAST 3 & NOW
+,
+,
+,
+,
+,
+,
+,
+SMK6C_PG,VAR: CHANGE SMOKING DURING PREG
+,
+,
+,
+,
+,
+,
+,
+SMK6C_PP,VAR: CHANGE SMOKING 3 BEFORE & NOW
+,
+,
+,
+,
+,
+,
+,
+SMK6NW_A,VAR: YES/NO SMOKE NOW
+,
+,
+,
+,
+,
+SMK6_3B,"SMK -- 3 mnths bef, #cigs/day (FORCED SKIP)"
+,
+,
+,
+,
+,
+,
+,
+,
+SMK6_3L,"SMK -- last 3 mnths, #cigs/day (FORCED SKIP)"
+,
+,
+,
+,
+,
+,
+,
+,
+SMK6_3N,"SMK -- now, #cigs/day (FORCED SKIP)"
+,
+,
+,
+,
+,
+,
+,
+,
+STRS_TT3,VAR: TOTAL # STRESSES
+,
+STRS_T_G,"VAR: TOTAL # STRESSES, GROUPED"
+,
+,
+,
+,
+TLK_ABUS,HCW talk -- physical abuse (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_BDEF,HCW talk -- birth defects tests (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_BELT,HCW talk -- seatbelt use (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_BF,HCW talk -- breastfeeding (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_DPRS,HCW talk -- depression (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_DRK,HCW talk -- drinking alcohol (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_DRUG,HCW talk -- illegal drugs (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_HIVT,HCW talk -- testing for HIV (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_MEDS,HCW talk -- safe meds (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_PRET,HCW talk -- preterm labor signs (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_SMK,HCW talk -- smoking (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+TLK_WT,HCW talk -- amt weight gain (FORCED SKIP)
+,
+,
+,
+,
+,
+,
+VST_CARE,Health worker visit to help care for self/baby (FORCED SKIP)
