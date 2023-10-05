@@ -3,6 +3,11 @@
 This repo contains scripts used in the paper [Machine Learning-Based Predictive Modeling of Postpartum Depression](https://www.mdpi.com/2077-0383/9/9/2899). We trained machine learning models to predict postpartum depression, and further analysed our models to find features that are important in the development of this phenotype. 
 
 ### scripts and usage
+
+[modules](scripts/modules/): contains helper functions used in this project; if you intend to reproduce these results, you don't need to run this script.
+
+0. helpers.R
+
 [preprocess](scripts/preprocess): contains scripts used to preprocess the data
 
 1. preprocessing.R
