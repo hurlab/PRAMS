@@ -4,8 +4,7 @@ This repo contains scripts used in the paper [Machine Learning-Based Predictive 
 
 #### software
 1. create a conda environment: `conda env create -f software/environment.yaml`
-2. open the `r` console
-3. install additional packages: `Rscript software/packages.R`
+2. install additional packages: `Rscript software/packages.R`
 
 ### scripts and usage
 
