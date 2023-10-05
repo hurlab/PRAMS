@@ -12,17 +12,17 @@ This repo contains scripts used in the paper [Machine Learning-Based Predictive 
 
 1. preprocessing.R
 2. balancing_dataset.R
-3. RE-collect_data.R
+3. collect_and_split_data.R
 
 [train](scripts/train):
 
-4. set_one_re-run.R        
-5. set_two_re-run.R
-6. set_three_re-run.R      
+4. train_set_one.R        
+5. train_set_two.R
+6. train_set_three.R      
 
 [analyse](scripts/analyse):
 
-7. gather_and_analyse.R
+7. analyse.R
 
 ### Notes
 - there is a `feature_details.csv` file that I need to find
